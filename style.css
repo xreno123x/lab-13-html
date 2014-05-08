@@ -1,3 +1,12 @@
+body{
+	background: white url(http://31.media.tumblr.com/tumblr_liho3jxppP1qhnyjso1_500.gif) repeat top right;
+}
+#intro{
+	border: 2px green solid;
+}
+.spotlight{
+	background-color: yellow; 
+}
 p{
 	color: red;
 	text-decoration:underline;
